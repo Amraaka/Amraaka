@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amara</h1>
 <h3 align="center">CS student at MUST | Backend-focused Web & App Developer | Exploring AI, ML & Cloud Computing</h3>
 
-- 🔭 I’m currently working on **a full-stack web application**
+- 🔭 I’m currently working on **AI model**
 
-- 🌱 I’m currently learning **Back-End development**
+- 🌱 I’m currently learning **Back-End development and Computer Vision**
 
 - 💬 Ask me about **whatever you want ;)**
 
